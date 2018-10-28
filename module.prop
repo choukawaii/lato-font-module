@@ -1,7 +1,7 @@
-id=template
-name=Template Module
-version=v1
-versionCode=1
-author=topjohnwu
-description=A short description
+id=Lato-Font
+name=Lato Font
+version=v1.0
+versionCode=10
+author=choukawaii
+description=Magisk module to install Lato font systemlessly.
 minMagisk=17000
