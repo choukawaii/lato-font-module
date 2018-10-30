@@ -1,9 +1,9 @@
 # Lato Font
-Magisk module to apply Lato font systemlessly
+A Magisk module to apply Lato font systemlessly
 
 ## Changelogs
 ### V.1.0.1
-* Updated README.md
+* Updated Description and README
 * etc.
 ### V.1
 * Initial release
